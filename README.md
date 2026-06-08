@@ -7,7 +7,9 @@
 - 💬 ask me more about if you have any question about Data : ...
 
 ### 🛠️ (Tech Stack)
- <img src="https://skillicons.dev" />
+<p align="left">
+  <img src="https://skillicons.dev" />
+</p>
 
 ### 📫 contact:
 - 📧 Email: thaitanphuoc268@gmail.com
