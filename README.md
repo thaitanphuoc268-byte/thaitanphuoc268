@@ -7,7 +7,11 @@
 - 💬 ask me more about if you have any question about Data : ...
 
 ### 🛠️ (Tech Stack)
-[![My Skills](https://skillicons.dev)](https://skillicons.dev)
+![Python](https://shields.io)
+![MySQL](https://shields.io)
+![PostgreSQL](https://shields.io)
+![Tableau](https://shields.io)
+![Power Bi](https://shields.io)
 ### 📫 contact:
 - 📧 Email: thaitanphuoc268@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/phuoc-thai-tan-1967413b5/
