@@ -7,11 +7,12 @@
 - 💬 ask me more about if you have any question about Data : ...
 
 ### 🛠️ (Tech Stack)
-![Python](https://shields.io)
-![MySQL](https://shields.io)
-![PostgreSQL](https://shields.io)
-![Tableau](https://shields.io)
-![Power Bi](https://shields.io)
+<p align="left">
+  <img src="https://jsdelivr.net" width="40" height="40" alt="python" />
+  <img src="https://jsdelivr.net" width="40" height="40" alt="r" />
+  <img src="https://jsdelivr.net" width="40" height="40" alt="mysql" />
+  <img src="https://jsdelivr.net" width="40" height="40" alt="postgres" />
+</p>
 ### 📫 contact:
 - 📧 Email: thaitanphuoc268@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/phuoc-thai-tan-1967413b5/
