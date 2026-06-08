@@ -10,7 +10,6 @@
 <p align="left">
   <img src="https://skillicons.dev" />
 </p>
-
 ### 📫 contact:
 - 📧 Email: thaitanphuoc268@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/phuoc-thai-tan-1967413b5/
